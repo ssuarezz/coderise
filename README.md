@@ -1,2 +1,6 @@
-coderise
+ Proyecto Coderise 
 ========
+
+* Equipo 
+* Sergio Suarez 
+
